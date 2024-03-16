@@ -45,6 +45,21 @@ use clic para cambiar Forecolor / Click Derecho para poner el BackgroundColor\
 Use Save Theme / Load Theme para guardar o restaurar temas en archivos .vfptheme.
 
 Temas suministrados:
-- nFox.vfpTheme
+- nFox.vfpTheme 
 - default.vfpTheme
+- themeCharGPT - DarkMode v1.vfpTheme
+- themeCharGPT - DarkMode v2.vfpTheme
+- themeCharGPT - DarkMode v3.vfptheme
+- themeCharGPT - DarkMode v4.vfptheme
+- themeCharGPT - DarkMode v5.vfptheme
+- themeChatGPT - Dracula Official.vfpTheme
+- themeChatGPT - Dracula.vfpTheme
+- themeChatGPT - GitHub Dark Mode.vfpTheme
+- themeChatGPT - Modokai Pro.vfpTheme
+- themeChatGPT - Modokai.vfpTheme
+- themeChatGPT - Omni.vfpTheme
+- themeChatGPT - One Dark Pro.vfpTheme
+- themeChatGPT - Palenight.vfpTheme
+- themeChatGPT - REUI.vfpTheme
+- themeChatGPT - Sublime.vfpTheme
 
