@@ -19,9 +19,9 @@ Supplied themes:
 - default.vfpTheme
 - themeCharGPT - DarkMode v1.vfpTheme
 - themeCharGPT - DarkMode v2.vfpTheme
-- THEMECHARGPT - DARKMODE V3.vfptheme
-- THEMECHARGPT - DARKMODE V4.vfptheme
-- THEMECHARGPT - DARKMODE V5.vfptheme
+- themeCharGPT - DarkMode v3.vfptheme
+- themeCharGPT - DarkMode v4.vfptheme
+- themeCharGPT - DarkMode v5.vfptheme
 - themeChatGPT - Dracula Official.vfpTheme
 - themeChatGPT - Dracula.vfpTheme
 - themeChatGPT - GitHub Dark Mode.vfpTheme
